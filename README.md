@@ -16,7 +16,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-https://rocket-pay.vercel.app
+https://rocket-pay-delta.vercel.app
 </p>
 <br>
 
