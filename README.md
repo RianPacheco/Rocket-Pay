@@ -4,6 +4,8 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
+## link do projeto - https://rocket-pay-delta.vercel.app
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
