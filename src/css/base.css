@@ -19,7 +19,7 @@
 
 body {
   font-size: 1.6rem;
-  background-image: url(../src/assets/img/preview/Preview-1.PNG);
+  background-image: url(./src/assets/img/preview/Preview-1.PNG);
   background-repeat: no-repeat;
   background-size: cover;
 
