@@ -12,11 +12,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" <a href="https://github.com/RianPacheco/Rocket-Pay/blob/master/LICENSE">
+
 </p>
 
+<p align="center">
 https://rocket-pay-delta.vercel.app
-
+</p>
 <br>
 
 <p align="center">
