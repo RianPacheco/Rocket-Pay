@@ -19,7 +19,7 @@
 
 body {
   font-size: 1.6rem;
-  background-image: url(../public/background-image.svg);
+  background: url(../public/background-image.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
