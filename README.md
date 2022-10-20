@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RianPacheco/Minha-HomePage/blob/main/LICENSE)
+
 </p>
 
 <p align="center">
