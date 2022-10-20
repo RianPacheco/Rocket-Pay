@@ -12,9 +12,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+
 </p>
 
+<p align="center">
+https://rocket-pay-delta.vercel.app
+</p>
 <br>
 
 <p align="center">
@@ -45,4 +48,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+# Autor
+
+&copy; <a href="https://www.linkedin.com/in/rian-pacheco/"> Rian Pacheco</a>
