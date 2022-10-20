@@ -19,6 +19,7 @@
 
 body {
   font-size: 1.6rem;
+  background-color: #202024;
   background: url(../public/background-image.svg);
   background-repeat: no-repeat;
   background-size: cover;
