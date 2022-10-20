@@ -47,6 +47,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Autor &copy;
+## Autor ©
 
 © 
